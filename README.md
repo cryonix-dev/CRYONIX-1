@@ -29,13 +29,13 @@ To ensure fairness and track your progress, this hackathon features a strict two
 *Please overwrite the information below with your actual project details before the final evaluation.*
 
 ### Team Name: 
-[Enter your team name]
+CRYONIX
 
 ### Project Name:
-[Enter your project name]
+SprintOS
 
 ### Project Description:
-[Write a brief 1-2 paragraph description of what your project does, the problem it solves, and the technologies used.]
+SprintOS is a web-based team execution platform designed for hackathons and fast-paced group projects. Unlike traditional tools that focus only on chatting or note-taking, SprintOS brings tasks, meeting notes, AI-powered summaries, and progress tracking into one unified dashboard. The platform helps teams instantly understand what needs to be done next by converting discussions into clear action items, visualizing progress, and organizing responsibilities in real time. Built with a modern web stack and AI integration, SprintOS reduces chaos during sprints and transforms scattered teamwork into structured execution.
 
 ### Setup & Installation Instructions:
 [Provide clear, step-by-step instructions on how the judges can run your project locally. Include any commands needed to install dependencies and start the application.]
